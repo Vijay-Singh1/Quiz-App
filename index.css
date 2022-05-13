@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Source+Sans+Pro:wght@200;300;400;600;700&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #54c3ef;
+}
+
+.heading{
+
+    margin-top: 50px;
+    margin-left: 550px;
+    color: #fad744;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+    font-family: 'Caveat Brush';
+}
+
+#main{
+   background-color: #2b3252;
+   width: 700px;
+   height: auto;
+   margin-top: 20px;
+   margin-left: 300px;
+   padding-left: 50px;
+   padding-top: 30px;
+   border-radius: 10px ;
+   
+}
+
+.label{
+    color: #fad744;
+    background-color: #2b3252;
+    font-size: 20px;
+    font-weight: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+.ques{
+    background-color: #2b3252;
+    color: #fad744;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hr{
+    margin: 20px  0px;
+    background-color: #fad744;
+    width: 90%;
+    height: 1px;
+}
+
+.button{
+    background-color: #fad744;
+    width: 100px;
+    height: 50px;
+    color: #2b3252;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+
+span{
+    background-color: #2b3252;
+    margin-left:10px ;
+}
+
+#score{
+    width: 120px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+    left: 1070px;
+    top: 135px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding-top: 50px;
+    padding-left: 20px;
+    font-size: 50px;
+}
